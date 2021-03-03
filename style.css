@@ -1,0 +1,49 @@
+.but {
+    background-color:rgb(0, 195, 255) ;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.main{
+    background-color: black;
+    margin-left: 320px;
+    margin-top: 25px;
+    width: 375px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.inp1{
+    height:30px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+.btn1{
+    height:30px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.btn2{
+    height:30px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.L{
+    background-color: rgb(4, 95, 138);
+    color: white;
+    font-size: 20px;
+}
+.editbtn{
+    border-radius: 10px;
+    background-color:rgb(0, 195, 255) ;
+    padding: 5px;
+    margin-left: 50px;
+    height: 40px;
+    
+}
+::placeholder{
+    font-size: 15px;
+    color: rgb(70, 51, 51);
+}
